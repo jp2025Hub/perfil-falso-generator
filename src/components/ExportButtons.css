@@ -1,0 +1,27 @@
+.export-buttons {
+    margin-top: 2rem;
+    padding: 1rem;
+    background-color: #fefefe;
+    border-radius: 8px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+  }
+  
+  .export-buttons h3 {
+    margin-bottom: 0.75rem;
+  }
+  
+  .export-buttons button {
+    margin-right: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #007acc;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+  
+  .export-buttons button:hover {
+    background-color: #005fa3;
+  }
+  

@@ -1,0 +1,50 @@
+/* Cores, botões e elementos visuais */
+
+body {
+    background-color: #f6f8fa;
+    color: #1a1a1a;
+    font-family: 'Segoe UI', Roboto, sans-serif;
+    line-height: 1.6;
+  }
+  
+  button {
+    font-family: inherit;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  button:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+  }
+  
+  select {
+    font-family: inherit;
+    font-size: 1rem;
+    padding: 0.4rem;
+  }
+  
+  input[type="text"],
+  input[type="email"] {
+    font-family: inherit;
+    font-size: 1rem;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    width: 100%;
+  }
+  
+  h2 {
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+  }
+  
+  h3 {
+    font-size: 1.2rem;
+    margin-bottom: 0.6rem;
+  }
+  
+  strong {
+    color: #222;
+  }
+  
