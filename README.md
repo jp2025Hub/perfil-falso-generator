@@ -2,6 +2,8 @@
 
 **Fake Profile Generator** é uma aplicação web que gera perfis de utilizador falsos com dados realistas, com o objetivo de ajudar developers, testers e utilizadores preocupados com a privacidade a criar identidades simuladas para testes ou preenchimento de formulários.
 
+******* GITHUB PAGES ---->>   https://jp2025Hub.github.io/perfil-falso-generator/
+ 
 ---
 
 ## Funcionalidades
